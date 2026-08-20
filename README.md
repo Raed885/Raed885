@@ -38,16 +38,51 @@ I enjoy understanding how systems work—not only learning how to use them. My e
 - **Normalization, data integrity, and relational schemas**
 - **Networking fundamentals** and Linux systems
 
-## Projects and Interests
+## Featured Projects
 
-I use practical projects to turn what I learn into working software. My current project areas include:
+Each project repository contains a dedicated README with a structured presentation covering its **description, objectives, system overview, architecture, technologies, implemented features, key takeaways, and run instructions**.
 
-- C++ object-oriented programming and data-structure projects
-- Relational database design and ERD projects
-- C# Windows Forms applications
-- Restaurant and order management systems
-- Small games and algorithmic projects
-- Software and automation projects inspired by mechatronics and real-world systems
+### 1. [Bank System — OOP](https://github.com/Raed885/OOP-Bank-System)
+
+**Description:** A console-based C++ banking application designed with reusable object-oriented classes for users, clients, screens, validation, and file-based persistence.
+
+**Objectives:** Practice encapsulation, inheritance, abstraction, CRUD operations, authentication, permissions, deposits, withdrawals, and balance reporting.
+
+**Key Features:** User and client management, login auditing, transaction screens, total-balance calculation, and sanitized fictional demo records.
+
+**Technologies:** C++, OOP, Visual Studio, console UI, and text-file persistence.
+
+### 2. [Bank and Currency Management System — OOP](https://github.com/Raed885/OOP-Bank-Currency-System)
+
+**Description:** An extended C++ banking platform that adds account transfers and currency-management workflows to the core bank system.
+
+**Objectives:** Extend an existing OOP application through modular features while maintaining separation between domain classes, screens, validation, and persistence.
+
+**Key Features:** Deposits, withdrawals, transfers, transfer logging, user permissions, currency search, currency-rate updates, currency conversion, and total-balance reporting.
+
+**Technologies:** C++, OOP, Visual Studio, console UI, file-based persistence, and reusable utility classes.
+
+### 3. [C++ Input and Validation Library](https://github.com/Raed885/CPP-Input-Validation-Library)
+
+**Description:** A reusable C++ library that centralizes numeric input handling, range checks, date validation, and date-range validation for console applications.
+
+**Objectives:** Reduce duplicated validation code, recover safely from invalid `std::cin` input, and keep input concerns separate from business logic.
+
+**Key Features:** Integer and floating-point range checks, safe numeric readers, date validation, and date-range checking through `clsInputValidate` and `clsDate`.
+
+**Technologies:** C++, reusable header-based classes, standard input streams, and Visual Studio.
+
+### 4. [C++ Utility Library](https://github.com/Raed885/CPP-Utility-Library)
+
+**Description:** A reusable collection of C++ helpers for random values, character and key generation, arrays, overloaded swaps, text transformation, and console formatting.
+
+**Objectives:** Practice static utility methods, enumerations, overloaded functions, array manipulation, and reusable programming abstractions.
+
+**Key Features:** Random numbers and characters, generated words and keys, array filling and shuffling, overloaded swaps, date swapping, simple text transformation, and tab formatting.
+
+**Technologies:** C++, reusable header-based utilities, arrays, pseudo-random generation, and Visual Studio.
+
+> All project repositories use fictional demo data. The included banking applications are educational projects and are not production financial systems.
 
 ## My Goal
 
