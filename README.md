@@ -1,4 +1,4 @@
-# Hi, I'm Raed Basim Hillel
+# Hi, I'm Raed Basim
 
 I am a **Mechatronics Engineering student** interested in software development, database design, networking, automation, and practical problem solving.
 
