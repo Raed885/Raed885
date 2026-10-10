@@ -1,58 +1,40 @@
-# Hi, I'm Raed Basim Hillel
+# Raed Basim Hillel
 
-**Mechatronics Engineering Graduate | Aspiring Full Stack Developer**
+**Mechatronics Engineering Graduate · C++ Project Builder · Software & IT Systems**
 
-I'm interested in building practical software and understanding how complete applications work across the **frontend, backend, and database layers**.
+I use hands-on projects to connect engineering problem-solving with software. My public work currently focuses on C++ console applications, object-oriented design, reusable utilities, and input validation. I am also building practical experience with C#, SQL, databases, Windows, and networking fundamentals.
 
-My current focus is strengthening my foundations in **Python, SQL, Object-Oriented Programming, and software development** while building projects through practice.
+## Focus
 
-## About Me
+- Building and improving real-world style software projects
+- C++ fundamentals, object-oriented programming, and file handling
+- C# Windows Forms and event-driven applications
+- SQL, relational database design, and data integrity
+- IT systems, Windows troubleshooting, networking, and automation
 
-- 🎓 Bachelor's Degree in Mechatronics Engineering — Middle Technical University
-- 💻 Strong foundation in C++ and Object-Oriented Programming
-- 🐍 Currently developing my Python skills
-- 🗄️ Currently learning SQL and relational database design
-- 🔧 Prefer building projects to reinforce what I learn
-- 🎯 Working toward becoming a Full Stack Developer
+## Tools and Topics
 
-## Skills
+**Languages:** C++ · C# · SQL  
+**Development:** Visual Studio · Git · GitHub  
+**Concepts:** OOP · CRUD · validation · file I/O · relational databases · normalization
 
-**Languages**  
-C++ · Python · C# · SQL
+## Selected Projects
 
-**Core Concepts**  
-Object-Oriented Programming · Data Structures · Input Validation · Database Design · Normalization
-
-**Tools**  
-Git · GitHub · Visual Studio
-
-## Featured Projects
+### [Bank and Currency Management System](https://github.com/Raed885/OOP-Bank-Currency-System)
+A C++ console application with client and user management, transfers, permissions, currency conversion, and file-based persistence.
 
 ### [OOP Bank System](https://github.com/Raed885/OOP-Bank-System)
+A menu-driven C++ project for practicing class design, authentication flows, CRUD operations, permissions, and local data storage.
 
-A console-based C++ banking application built independently to practice Object-Oriented Programming, encapsulation, inheritance, CRUD operations, authentication, permissions, and file-based persistence.
+### [C++ Input and Validation Library](https://github.com/Raed885/CPP-Input-Validation-Library)
+Reusable numeric and date validation helpers, with a small console demonstration.
 
 ### [C++ Utility Library](https://github.com/Raed885/CPP-Utility-Library)
+Reusable helpers for dates, arrays, random values, and string operations.
 
-A reusable C++ utility library containing string utilities, input validation, date/time functionality, random value generation, array manipulation, and reusable helper functions.
-
-### [C++ Input & Validation Library](https://github.com/Raed885/CPP-Input-Validation-Library)
-
-A reusable C++ library for numeric input validation, range checks, date validation, and date-range validation.
-
-## Currently Learning
-
-- Python programming
-- SQL and relational databases
-- Database design and normalization
-- Data structures and algorithms
-- Software development fundamentals
-
-## Goal
-
-I want to understand how the different layers of an application work together so I can eventually design and build complete applications myself.
+These are learning projects. Their READMEs describe how to build them and explain their limitations.
 
 ## Contact
 
-📧 **Email:** raedbasm999@gmail.com  
-🔗 **GitHub:** https://github.com/Raed885
+📧 [raedbasm999@gmail.com](mailto:raedbasm999@gmail.com)  
+🔗 [GitHub profile](https://github.com/Raed885)
